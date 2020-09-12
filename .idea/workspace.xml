@@ -5,7 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0fe2ea8e-2422-4f72-a6f3-c2dc7b3eed49" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/HomeController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/mix-manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/sass/_home.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/sass/_layout.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/sass/_typography.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/sass/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/sass/app.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/home.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/layout/app.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/css/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/app.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpack.mix.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.mix.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -131,11 +146,15 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1hO0nBJK4oGi29b439tTstEynks" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -157,14 +176,31 @@
       <option name="presentableId" value="Default" />
       <updated>1599866995628</updated>
       <workItem from="1599866996857" duration="301000" />
-      <workItem from="1599867314075" duration="183000" />
+      <workItem from="1599867314075" duration="5769000" />
     </task>
+    <task id="LOCAL-00001" summary="- initial commit">
+      <created>1599867532637</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1599867532637</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="- initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="- initial commit" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="891" y="206" key="CommitChangelistDialog2" timestamp="1599867532216">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="891" y="206" key="CommitChangelistDialog2/-1920.429.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1599867532216" />
     <state width="2518" height="419" key="GridCell.Tab.0.bottom" timestamp="1599867300587">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
@@ -181,9 +217,9 @@
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state width="2518" height="419" key="GridCell.Tab.0.right/-1920.429.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1599867300586" />
-    <state x="880" y="456" key="Vcs.Push.Dialog.v2" timestamp="1599867326733">
+    <state x="880" y="456" key="Vcs.Push.Dialog.v2" timestamp="1599867541567">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
-    <state x="880" y="456" key="Vcs.Push.Dialog.v2/-1920.429.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1599867326733" />
+    <state x="880" y="456" key="Vcs.Push.Dialog.v2/-1920.429.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1599867541567" />
   </component>
 </project>
