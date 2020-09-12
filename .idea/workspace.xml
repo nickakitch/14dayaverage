@@ -5,22 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0fe2ea8e-2422-4f72-a6f3-c2dc7b3eed49" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/HomeController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/mix-manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/sass/_home.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/sass/_layout.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/sass/_typography.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/sass/_variables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/sass/app.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/home.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/layout/app.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/css/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/app.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webpack.mix.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.mix.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cpanel.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -176,7 +161,7 @@
       <option name="presentableId" value="Default" />
       <updated>1599866995628</updated>
       <workItem from="1599866996857" duration="301000" />
-      <workItem from="1599867314075" duration="5769000" />
+      <workItem from="1599867314075" duration="5990000" />
     </task>
     <task id="LOCAL-00001" summary="- initial commit">
       <created>1599867532637</created>
@@ -185,7 +170,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599867532637</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="- initial commit">
+      <created>1599873739573</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1599873739573</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -197,10 +189,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="- initial commit" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="891" y="206" key="CommitChangelistDialog2" timestamp="1599867532216">
+    <state x="891" y="206" key="CommitChangelistDialog2" timestamp="1599873739337">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
-    <state x="891" y="206" key="CommitChangelistDialog2/-1920.429.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1599867532216" />
+    <state x="891" y="206" key="CommitChangelistDialog2/-1920.429.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1599873739337" />
     <state width="2518" height="419" key="GridCell.Tab.0.bottom" timestamp="1599867300587">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
@@ -217,9 +209,9 @@
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state width="2518" height="419" key="GridCell.Tab.0.right/-1920.429.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1599867300586" />
-    <state x="880" y="456" key="Vcs.Push.Dialog.v2" timestamp="1599867541567">
+    <state x="880" y="456" key="Vcs.Push.Dialog.v2" timestamp="1599873745664">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
-    <state x="880" y="456" key="Vcs.Push.Dialog.v2/-1920.429.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1599867541567" />
+    <state x="880" y="456" key="Vcs.Push.Dialog.v2/-1920.429.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1599873745664" />
   </component>
 </project>
