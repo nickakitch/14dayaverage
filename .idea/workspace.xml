@@ -197,7 +197,7 @@
       <option name="presentableId" value="Default" />
       <updated>1599866995628</updated>
       <workItem from="1599866996857" duration="301000" />
-      <workItem from="1599867314075" duration="9069000" />
+      <workItem from="1599867314075" duration="9774000" />
     </task>
     <task id="LOCAL-00001" summary="- initial commit">
       <created>1599867532637</created>
@@ -234,7 +234,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599878218533</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="- update to app service provide">
+      <created>1599881623243</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1599881623243</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -246,17 +253,18 @@
     <MESSAGE value="- added cpanel.yml" />
     <MESSAGE value="- fixed .cpanel.yml" />
     <MESSAGE value="- added support for case numbers in db" />
-    <option name="LAST_COMMIT_MESSAGE" value="- added support for case numbers in db" />
+    <MESSAGE value="- update to app service provide" />
+    <option name="LAST_COMMIT_MESSAGE" value="- update to app service provide" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1018" y="482" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1599876078316">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state x="1018" y="482" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/-1920.429.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1599876078316" />
-    <state x="891" y="206" key="CommitChangelistDialog2" timestamp="1599878218259">
+    <state x="891" y="206" key="CommitChangelistDialog2" timestamp="1599881623106">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
-    <state x="891" y="206" key="CommitChangelistDialog2/-1920.429.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1599878218259" />
+    <state x="891" y="206" key="CommitChangelistDialog2/-1920.429.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1599881623106" />
     <state width="2518" height="419" key="GridCell.Tab.0.bottom" timestamp="1599876964131">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
@@ -273,10 +281,10 @@
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state width="2518" height="419" key="GridCell.Tab.0.right/-1920.429.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1599876964131" />
-    <state x="880" y="456" key="Vcs.Push.Dialog.v2" timestamp="1599878220622">
+    <state x="880" y="456" key="Vcs.Push.Dialog.v2" timestamp="1599881642065">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
-    <state x="880" y="456" key="Vcs.Push.Dialog.v2/-1920.429.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1599878220622" />
+    <state x="880" y="456" key="Vcs.Push.Dialog.v2/-1920.429.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1599881642065" />
     <state x="985" y="520" key="com.jetbrains.php.test.PhpNewTestDialog" timestamp="1599875311390">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
