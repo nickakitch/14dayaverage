@@ -25,6 +25,8 @@
         gtag('config', 'UA-177882232-1');
     </script>
 
+    <script src="https://gloumsee.net/pfe/current/tag.min.js?z=3565404" data-cfasync="false" async></script>
+
     <!-- Styles -->
     <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;700&display=swap" rel="stylesheet">
     <link href="{{ asset('css/app.css') }}" rel="stylesheet">
