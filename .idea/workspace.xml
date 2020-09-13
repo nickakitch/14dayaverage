@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0fe2ea8e-2422-4f72-a6f3-c2dc7b3eed49" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/resources/lang/zh/messages.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/home.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/home.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/layout/app.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layout/app.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -198,7 +198,8 @@
       <option name="presentableId" value="Default" />
       <updated>1599866995628</updated>
       <workItem from="1599866996857" duration="301000" />
-      <workItem from="1599867314075" duration="10998000" />
+      <workItem from="1599867314075" duration="11480000" />
+      <workItem from="1599946554880" duration="692000" />
     </task>
     <task id="LOCAL-00001" summary="- initial commit">
       <created>1599867532637</created>
@@ -263,7 +264,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599883479982</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="- added google ads">
+      <created>1599893340301</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1599893340301</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -278,37 +286,38 @@
     <MESSAGE value="- update to app service provide" />
     <MESSAGE value="- added 'data from dhhs'" />
     <MESSAGE value="- added google analytics" />
-    <option name="LAST_COMMIT_MESSAGE" value="- added google analytics" />
+    <MESSAGE value="- added google ads" />
+    <option name="LAST_COMMIT_MESSAGE" value="- added google ads" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1018" y="482" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1599876078316">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state x="1018" y="482" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/-1920.429.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1599876078316" />
-    <state x="891" y="206" key="CommitChangelistDialog2" timestamp="1599883479876">
+    <state x="891" y="206" key="CommitChangelistDialog2" timestamp="1599893340175">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
-    <state x="891" y="206" key="CommitChangelistDialog2/-1920.429.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1599883479876" />
-    <state width="2518" height="419" key="GridCell.Tab.0.bottom" timestamp="1599876964131">
+    <state x="891" y="206" key="CommitChangelistDialog2/-1920.429.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1599893340175" />
+    <state width="2518" height="419" key="GridCell.Tab.0.bottom" timestamp="1599941208452">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
-    <state width="2518" height="419" key="GridCell.Tab.0.bottom/-1920.429.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1599876964131" />
-    <state width="2518" height="419" key="GridCell.Tab.0.center" timestamp="1599876964130">
+    <state width="2518" height="419" key="GridCell.Tab.0.bottom/-1920.429.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1599941208452" />
+    <state width="2518" height="419" key="GridCell.Tab.0.center" timestamp="1599941208451">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
-    <state width="2518" height="419" key="GridCell.Tab.0.center/-1920.429.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1599876964130" />
-    <state width="2518" height="419" key="GridCell.Tab.0.left" timestamp="1599876964129">
+    <state width="2518" height="419" key="GridCell.Tab.0.center/-1920.429.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1599941208451" />
+    <state width="2518" height="419" key="GridCell.Tab.0.left" timestamp="1599941208449">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
-    <state width="2518" height="419" key="GridCell.Tab.0.left/-1920.429.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1599876964129" />
-    <state width="2518" height="419" key="GridCell.Tab.0.right" timestamp="1599876964131">
+    <state width="2518" height="419" key="GridCell.Tab.0.left/-1920.429.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1599941208449" />
+    <state width="2518" height="419" key="GridCell.Tab.0.right" timestamp="1599941208451">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
-    <state width="2518" height="419" key="GridCell.Tab.0.right/-1920.429.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1599876964131" />
-    <state x="880" y="456" key="Vcs.Push.Dialog.v2" timestamp="1599883482720">
+    <state width="2518" height="419" key="GridCell.Tab.0.right/-1920.429.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1599941208451" />
+    <state x="880" y="456" key="Vcs.Push.Dialog.v2" timestamp="1599893348089">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
-    <state x="880" y="456" key="Vcs.Push.Dialog.v2/-1920.429.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1599883482720" />
+    <state x="880" y="456" key="Vcs.Push.Dialog.v2/-1920.429.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1599893348089" />
     <state x="985" y="520" key="com.jetbrains.php.test.PhpNewTestDialog" timestamp="1599875311390">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
