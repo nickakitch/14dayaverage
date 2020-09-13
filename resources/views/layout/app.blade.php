@@ -7,6 +7,8 @@
     <!-- CSRF Token -->
     <meta name="csrf-token" content="{{ csrf_token() }}">
 
+    <meta name="propeller" content="63b6b818f4b1364adf269f5a15f7183f">
+
     <title>{{ $title ?? "Melbourne 14 Day Average" }}</title>
 
     <!-- Scripts -->
