@@ -5,6 +5,7 @@
         <div class="case-numbers-wrapper">
             <div class="case-numbers">
                 <h1>{{ $fortnight_average }}</h1>
+                <p class="small">(Metro + Regional)</p>
                 <p class="text-uppercase mt-4">Current 14 day average<br>for COVID-19 cases</p>
             </div>
         </div>
