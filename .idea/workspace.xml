@@ -5,7 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0fe2ea8e-2422-4f72-a6f3-c2dc7b3eed49" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/14dayaverage.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/14dayaverage.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/DailyCaseRecordController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/DailyCaseRecordController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/HomeController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/HomeController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2020_09_12_014811_create_daily_case_records_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2020_09_12_014811_create_daily_case_records_table.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/home.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/home.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -129,6 +136,9 @@
       <path value="$PROJECT_DIR$/vendor/league/mime-type-detection" />
       <path value="$PROJECT_DIR$/vendor/phpunit/phpunit" />
       <path value="$PROJECT_DIR$/vendor/nunomaduro/collision" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/cache" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/dbal" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/event-manager" />
     </include_path>
   </component>
   <component name="ProjectId" id="1hO0nBJK4oGi29b439tTstEynks" />
@@ -199,7 +209,7 @@
       <workItem from="1599866996857" duration="301000" />
       <workItem from="1599867314075" duration="11480000" />
       <workItem from="1599946554880" duration="2704000" />
-      <workItem from="1600066717908" duration="249000" />
+      <workItem from="1600066717908" duration="1248000" />
     </task>
     <task id="LOCAL-00001" summary="- initial commit">
       <created>1599867532637</created>
@@ -313,7 +323,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600025241560</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="- added metro+regional">
+      <created>1600067107707</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1600067107707</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -335,17 +352,18 @@
     <MESSAGE value="- added propeller ads" />
     <MESSAGE value="- includes dhhs adjustments" />
     <MESSAGE value="- updated dhhs adjustments" />
-    <option name="LAST_COMMIT_MESSAGE" value="- updated dhhs adjustments" />
+    <MESSAGE value="- added metro+regional" />
+    <option name="LAST_COMMIT_MESSAGE" value="- added metro+regional" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1018" y="482" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1599876078316">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state x="1018" y="482" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/-1920.429.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1599876078316" />
-    <state x="891" y="206" key="CommitChangelistDialog2" timestamp="1600025241461">
+    <state x="891" y="206" key="CommitChangelistDialog2" timestamp="1600067107570">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
-    <state x="891" y="206" key="CommitChangelistDialog2/-1920.429.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1600025241461" />
+    <state x="891" y="206" key="CommitChangelistDialog2/-1920.429.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1600067107570" />
     <state width="2518" height="419" key="GridCell.Tab.0.bottom" timestamp="1599941208452">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
@@ -362,10 +380,10 @@
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state width="2518" height="419" key="GridCell.Tab.0.right/-1920.429.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1599941208451" />
-    <state x="880" y="456" key="Vcs.Push.Dialog.v2" timestamp="1600025245004">
+    <state x="880" y="456" key="Vcs.Push.Dialog.v2" timestamp="1600067111961">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
-    <state x="880" y="456" key="Vcs.Push.Dialog.v2/-1920.429.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1600025245004" />
+    <state x="880" y="456" key="Vcs.Push.Dialog.v2/-1920.429.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1600067111961" />
     <state x="985" y="520" key="com.jetbrains.php.test.PhpNewTestDialog" timestamp="1599875311390">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>

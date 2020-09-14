@@ -10,7 +10,9 @@ class HomeController extends Controller
 {
     public function index()
     {
-        $fortnight_average = DailyCaseRecordController::fortnightAverage();
+        $controller = new DailyCaseRecordController();
+        $fortnight_average = $controller->fortnightAverage();
+
         date_default_timezone_set('Australia/Melbourne');
         $last_updated = new Carbon(DailyCaseRecord::orderBy('id', 'desc')->first()->updated_at);
 

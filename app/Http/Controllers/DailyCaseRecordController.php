@@ -7,8 +7,21 @@ use Illuminate\Http\Request;
 
 class DailyCaseRecordController extends Controller
 {
-    public static function fortnightAverage()
+    public function fortnightAverage()
     {
-        return round(DailyCaseRecord::orderBy('id', 'desc')->skip(0)->take(14)->get()->avg('cases'), 2);
+        return [
+            'metro' => $this->metroAverage(),
+            'regional' => $this->regionalAverage()
+        ];
+    }
+
+    private function metroAverage()
+    {
+        return round(DailyCaseRecord::where('region', 'metro')->orderBy('id', 'desc')->skip(0)->take(14)->get()->avg('cases'), 2);
+    }
+
+    private function regionalAverage()
+    {
+        return round(DailyCaseRecord::where('region', 'regional')->orderBy('id', 'desc')->skip(0)->take(14)->get()->avg('cases'), 2);
     }
 }

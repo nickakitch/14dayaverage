@@ -15,8 +15,9 @@ class CreateDailyCaseRecordsTable extends Migration
     {
         Schema::create('daily_case_records', function (Blueprint $table) {
             $table->id();
-            $table->integer('cases');
+            $table->double('cases', 4, 2);
             $table->integer('deaths');
+            $table->string('region');
             $table->timestamps();
         });
     }
