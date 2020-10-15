@@ -17,11 +17,11 @@ class DailyCaseRecordController extends Controller
 
     private function metroAverage()
     {
-        return round(DailyCaseRecord::where('region', 'metro')->orderBy('id', 'desc')->skip(0)->take(14)->get()->avg('cases'), 2);
+        return round(DailyCaseRecord::where('region', 'metro')->first()->cases);
     }
 
     private function regionalAverage()
     {
-        return round(DailyCaseRecord::where('region', 'regional')->orderBy('id', 'desc')->skip(0)->take(14)->get()->avg('cases'), 2);
+        return round(DailyCaseRecord::where('region', 'regional')->first()->cases);
     }
 }
